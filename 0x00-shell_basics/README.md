@@ -1,1 +1,2 @@
-Display the contents list of your current directory in a long format
+
+Create a script that switches the current user to the user betty
